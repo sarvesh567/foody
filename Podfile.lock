@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (23.0.0)
+  - DropDown (2.3.13)
+  - Frames (3.2.0)
+  - Kingfisher (6.0.1)
+  - LGSideMenuController (2.3.0)
+  - MBProgressHUD (1.2.0)
+  - MonthYearPicker (4.0.2)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Cosmos
+  - DropDown
+  - Frames (~> 3.0)
+  - Kingfisher (~> 6.0)
+  - LGSideMenuController
+  - MBProgressHUD
+  - MonthYearPicker
+  - ReachabilitySwift
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - DropDown
+    - Frames
+    - Kingfisher
+    - LGSideMenuController
+    - MBProgressHUD
+    - MonthYearPicker
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Frames: 404fd312c2ed1dbf8f25ce5db1446aeac62d0ffe
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  LGSideMenuController: 330643f700bce9783a153660123de7cb64b5aa78
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MonthYearPicker: 91f77106e6806d8c93c69e943ab0795fd420657f
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 64343b2e346d4aeff1f36f3a87c5a7213d1e9537
+
+COCOAPODS: 1.10.1
